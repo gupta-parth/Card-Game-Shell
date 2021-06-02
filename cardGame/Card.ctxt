@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=s\ val
+comment1.target=Card(int,\ int)
+comment2.params=c\ g\ x\ y\ side
+comment2.target=void\ draw(java.awt.Container,\ java.awt.Graphics,\ int,\ int,\ boolean)
+numComments=3

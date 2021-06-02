@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=posX\ posY
+comment1.target=Deck(int,\ int)
+comment2.params=
+comment2.target=void\ splay()
+comment3.params=
+comment3.target=void\ pile()
+comment4.params=
+comment4.target=void\ flip()
+comment5.params=
+comment5.target=void\ shuffle()
+comment6.params=x
+comment6.target=void\ deal(Deck)
+comment7.params=c\ g
+comment7.target=void\ draw(java.awt.Container,\ java.awt.Graphics)
+numComments=8
